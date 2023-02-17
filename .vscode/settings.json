@@ -1,0 +1,12 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\abdul\\OneDrive\\Desktop\\Libs\\Libs\\jars\\jinput.jar",
+    "c:\\Users\\abdul\\OneDrive\\Desktop\\Libs\\Libs\\jars\\jogg-0.0.7.jar",
+    "c:\\Users\\abdul\\OneDrive\\Desktop\\Libs\\Libs\\jars\\jorbis-0.0.15.jar",
+    "c:\\Users\\abdul\\OneDrive\\Desktop\\Libs\\Libs\\jars\\slick.jar",
+    "c:\\Users\\abdul\\OneDrive\\Desktop\\Libs\\Libs\\jars\\lwjgl.jar",
+    "c:\\Users\\abdul\\OneDrive\\Desktop\\Libs\\lwjgl\\lwjgl-natives-windows-x86.jar",
+    "c:\\Users\\abdul\\OneDrive\\Desktop\\Libs\\lwjgl\\lwjgl-natives-windows.jar"
+  ]
+}
